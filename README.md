@@ -15,5 +15,4 @@ Interactive gameplay:
     Play individual notes or create your own melodies by tapping different bars.
 
 What You'll Learn:
-
-Gain hands-on experience with essential concepts like UI design, sound playback, and user interaction.
+     Gain hands-on experience with essential concepts like UI design, sound playback, and user interaction.
